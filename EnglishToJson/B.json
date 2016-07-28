@@ -1,0 +1,786 @@
+[
+	{
+		"id":0,
+		"Chinese":嬰兒",
+		"English":baby",
+		"Speech":名",
+		"Sentence":The baby never smiles.",
+		"Ch_Sentnece":那個嬰兒從來不笑"
+	},
+	{
+		"id":1,
+		"Chinese":"麵包店",
+		"English":"bakery",
+		"Speech":"名",
+		"Sentence":"He passed the old bakery.",
+		"Ch_Sentnece":"他經過那家年代久遠的麵包店。"
+	},
+	{
+		"id":2,
+		"Chinese":"以…為基礎 <名>基礎",
+		"English":"base",
+		"Speech":"動",
+		"Sentence":"This movie is based on a novel.",
+		"Ch_Sentnece":"這部電影是根據小說改編的。"
+	},
+	{
+		"id":3,
+		"Chinese":"基本的",
+		"English":"basic",
+		"Speech":"形",
+		"Sentence":"The basic rule never changes.",
+		"Ch_Sentnece":"基本原則永遠不變。"
+	},
+	{
+		"id":4,
+		"Chinese":"棒球",
+		"English":"baseball",
+		"Speech":"名",
+		"Sentence":"He is a baseball player.",
+		"Ch_Sentnece":"他是一個棒球選手。"
+	},
+	{
+		"id":5,
+		"Chinese":"蝙蝠",
+		"English":"bat",
+		"Speech":"名",
+		"Sentence":"I am afraid of bats.",
+		"Ch_Sentnece":"我怕蝙蝠。"
+	},
+	{
+		"id":6,
+		"Chinese":"袋子、手提包",
+		"English":"bag",
+		"Speech":"名",
+		"Sentence":"Someone has stolen my bag.",
+		"Ch_Sentnece":"有人偷了我的袋子。"
+	},
+	{
+		"id":7,
+		"Chinese":"銀行",
+		"English":"bank",
+		"Speech":"名",
+		"Sentence":"They robbed the bank.",
+		"Ch_Sentnece":"他們搶劫銀行。"
+	},
+	{
+		"id":8,
+		"Chinese":"後面的",
+		"English":"back",
+		"Speech":"形",
+		"Sentence":"She sat in the back seat.",
+		"Ch_Sentnece":"她在後座。"
+	},
+	{
+		"id":9,
+		"Chinese":"向後、在退",
+		"English":"backward",
+		"Speech":"副",
+		"Sentence":"He is walking backward.",
+		"Ch_Sentnece":"他正在後對著走。"
+	},
+	{
+		"id":10,
+		"Chinese":"籃子、籃網",
+		"English":"basket",
+		"Speech":"名",
+		"Sentence":"There are a few eggs in the basket.",
+		"Ch_Sentnece":"籃子裡有些雞蛋。"
+	},
+	{
+		"id":11,
+		"Chinese":"籃球",
+		"English":"basketball",
+		"Speech":"名",
+		"Sentence":"The boy plays basketball well.",
+		"Ch_Sentnece":"那男孩籃球打得很好。"
+	},
+	{
+		"id":12,
+		"Chinese":"洗澡",
+		"English":"bath",
+		"Speech":"名",
+		"Sentence":"You need to take a hot bath.",
+		"Ch_Sentnece":"你需要洗個熱水澡。"
+	},
+	{
+		"id":13,
+		"Chinese":"浴室",
+		"English":"bathroom",
+		"Speech":"名",
+		"Sentence":"I don’t like to clean the bathroom.",
+		"Ch_Sentnece":"我不喜歡打掃浴室。"
+	},
+	{
+		"id":14,
+		"Chinese":"氣球",
+		"English":"balloon",
+		"Speech":"名",
+		"Sentence":"There are many balloons in the sky.",
+		"Ch_Sentnece":"空中有很多氣球。"
+	},
+	{
+		"id":15,
+		"Chinese":"香蕉",
+		"English":"banana",
+		"Speech":"名",
+		"Sentence":"He bought a banana pie.",
+		"Ch_Sentnece":"他買了一個香蕉派。"
+	},
+	{
+		"id":16,
+		"Chinese":"忍耐、承受",
+		"English":"bear",
+		"Speech":"動",
+		"Sentence":"I can’t bear this weather.",
+		"Ch_Sentnece":"你的行為令人無法忍受。"
+	},
+	{
+		"id":17,
+		"Chinese":"忍受、舉止",
+		"English":"bearing",
+		"Speech":"名",
+		"Sentence":"Your behavior was beyond bearing.",
+		"Ch_Sentnece":"你的行為令人無法忍受。"
+	},
+	{
+		"id":18,
+		"Chinese":"床、河床",
+		"English":"bed",
+		"Speech":"名",
+		"Sentence":"Is Jane still in bed?",
+		"Ch_Sentnece":"珍妮還在床上嗎?"
+	},
+	{
+		"id":19,
+		"Chinese":"臥室、寢室",
+		"English":"bedroom",
+		"Speech":"名",
+		"Sentence":"There are two bedrooms in this house.",
+		"Ch_Sentnece":"這房子有兩間臥室。"
+	},
+	{
+		"id":20,
+		"Chinese":"低於",
+		"English":"below",
+		"Speech":"介",
+		"Sentence":"The girl is below the age of eight.",
+		"Ch_Sentnece":"這女孩不到八歲。"
+	},
+	{
+		"id":21,
+		"Chinese":"屬於",
+		"English":"belong",
+		"Speech":"動",
+		"Sentence":"The house belongs to me.",
+		"Ch_Sentnece":"這間房子是屬於我的。"
+	},
+	{
+		"id":22,
+		"Chinese":"拍打、敲擊",
+		"English":"beat",
+		"Speech":"動",
+		"Sentence":"He was beaten for stealing.",
+		"Ch_Sentnece":"他因為偷東西被揍。"
+	},
+	{
+		"id":23,
+		"Chinese":"豆子",
+		"English":"bean",
+		"Speech":"名",
+		"Sentence":"This coffee beans were sold out.",
+		"Ch_Sentnece":"咖啡豆全賣光了。"
+	},
+	{
+		"id":24,
+		"Chinese":"海灘",
+		"English":"beach",
+		"Speech":"名",
+		"Sentence":"My brother is vacationing at the beach.",
+		"Ch_Sentnece":"我弟弟正在海濱度假。"
+	},
+	{
+		"id":25,
+		"Chinese":"蜜蜂",
+		"English":"bee",
+		"Speech":"名",
+		"Sentence":"There is a bee on the cake.",
+		"Ch_Sentnece":"蛋糕上有隻蜜蜂。"
+	},
+	{
+		"id":26,
+		"Chinese":"牛肉、食用牛",
+		"English":"beef",
+		"Speech":"名",
+		"Sentence":"The ham is made from beef.",
+		"Ch_Sentnece":"這火腿是牛肉製成的。"
+	},
+	{
+		"id":27,
+		"Chinese":"開始、源於 ",
+		"English":"begin",
+		"Speech":"動",
+		"Sentence":"The class began at 11 o’clock.",
+		"Ch_Sentnece":"這堂課十一點開始。"
+	},
+	{
+		"id":28,
+		"Chinese":"在…之前",
+		"English":"before ",
+		"Speech":"連",
+		"Sentence":"I usually take a walk before dinner.",
+		"Ch_Sentnece":"我通常在晚餐前散步。"
+	},
+	{
+		"id":29,
+		"Chinese":"相信、信任",
+		"English":"believe",
+		"Speech":"動",
+		"Sentence":"Do you believe him?",
+		"Ch_Sentnece":"你相信他嗎?"
+	},
+	{
+		"id":30,
+		"Chinese":"之間",
+		"English":"between",
+		"Speech":"介",
+		"Sentence":"I never eat between meals.",
+		"Ch_Sentnece":"我從不在兩餐之間吃零食。"
+	},
+	{
+		"id":31,
+		"Chinese":"變成、成為",
+		"English":"become",
+		"Speech":"動",
+		"Sentence":"Henry become a famous writer.",
+		"Ch_Sentnece":"亨利成了有名的作家。"
+	},
+	{
+		"id":32,
+		"Chinese":"因為、由於",
+		"English":"because",
+		"Speech":"連",
+		"Sentence":"He didn’t go to school because he got a cold.",
+		"Ch_Sentnece":"他因為感冒所以沒去上學。"
+	},
+	{
+		"id":33,
+		"Chinese":"在…旁邊",
+		"English":"beside",
+		"Speech":"介",
+		"Sentence":"Who is the man standing beside Betty?",
+		"Ch_Sentnece":"站在貝蒂旁邊的男人是誰?"
+	},
+	{
+		"id":34,
+		"Chinese":"除…之外",
+		"English":"besides",
+		"Speech":"介",
+		"Sentence":"We will go to the party besides Mary.",
+		"Ch_Sentnece":"除了瑪莉，我們都將參加派對。"
+	},
+	{
+		"id":35,
+		"Chinese":"美人",
+		"English":"beauty",
+		"Speech":"名",
+		"Sentence":"Amy is a great beauty.",
+		"Ch_Sentnece":"艾美是個大美人。 "
+	},
+	{
+		"id":36,
+		"Chinese":"美麗的",
+		"English":"beautiful",
+		"Speech":"形",
+		"Sentence":"The beach is so beautiful.",
+		"Ch_Sentnece":"這海灘非常美麗。"
+	},
+	{
+		"id":37,
+		"Chinese":"大的",
+		"English":"big",
+		"Speech":"形",
+		"Sentence":"Tokyo is a big city.",
+		"Ch_Sentnece":"東京是個大城市。"
+	},
+	{
+		"id":38,
+		"Chinese":"帳單",
+		"English":"bill",
+		"Speech":"名",
+		"Sentence":"Did you pay the phone bill?",
+		"Ch_Sentnece":"你付過電話費了嗎?"
+	},
+	{
+		"id":39,
+		"Chinese":"鳥類",
+		"English":"bird",
+		"Speech":"名",
+		"Sentence":"You can see many different birds in the park.",
+		"Ch_Sentnece":"你可以在公園裡看到很多不同種類的鳥。"
+	},
+	{
+		"id":40,
+		"Chinese":"生日",
+		"English":"birthday",
+		"Speech":"名",
+		"Sentence":"When is her birthday?",
+		"Ch_Sentnece":"他的生日是什麼時候?"
+	},
+	{
+		"id":41,
+		"Chinese":"咬、叮",
+		"English":"bite",
+		"Speech":"動",
+		"Sentence":"The dog bit the thief last night.",
+		"Ch_Sentnece":"昨晚這隻狗咬了小偷。"
+	},
+	{
+		"id":42,
+		"Chinese":"腳踏車",
+		"English":"bicycle",
+		"Speech":"名",
+		"Sentence":"The bicycle was my birthday gift.",
+		"Ch_Sentnece":"這輛腳踏車是我的生日禮物。"
+	},
+	{
+		"id":43,
+		"Chinese":"生物學、生物",
+		"English":"biology",
+		"Speech":"名",
+		"Sentence":"Mr. Smith teaches us biology.",
+		"Ch_Sentnece":"史密斯先生教我們生物學。"
+	},
+	{
+		"id":44,
+		"Chinese":"藍色的",
+		"English":"blue",
+		"Speech":"形",
+		"Sentence":"He wore a pair of blue jeans.",
+		"Ch_Sentnece":"他穿了一條藍色的牛仔褲。"
+	},
+	{
+		"id":45,
+		"Chinese":"盲的",
+		"English":"blind",
+		"Speech":"<形",
+		"Sentence":"The young man is blind in one eye.",
+		"Ch_Sentnece":"這年輕人瞎了一眼。"
+	},
+	{
+		"id":46,
+		"Chinese":"血液、血統",
+		"English":"blood",
+		"Speech":"名",
+		"Sentence":"He lost a lot of blood.",
+		"Ch_Sentnece":"他流了很多血。"
+	},
+	{
+		"id":47,
+		"Chinese":"責備、歸咎於",
+		"English":"blame",
+		"Speech":"動",
+		"Sentence":"I don’t blame my sister.",
+		"Ch_Sentnece":"我不怪我妹妹。"
+	},
+	{
+		"id":48,
+		"Chinese":"黑色、黑人的",
+		"English":"black",
+		"Speech":"形",
+		"Sentence":"He is a famous black professor.",
+		"Ch_Sentnece":"他是一個著名的黑人教授。"
+	},
+	{
+		"id":49,
+		"Chinese":"黑板",
+		"English":"blackboard",
+		"Speech":"名",
+		"Sentence":"The new teacher wrote her name on the blackboard.",
+		"Ch_Sentnece":"新來的老師在黑板上寫了他的名字。"
+	},
+	{
+		"id":50,
+		"Chinese":"盒子",
+		"English":"box",
+		"Speech":"名",
+		"Sentence":"I need a black box.",
+		"Ch_Sentnece":"我需要一個黑色的盒子。"
+	},
+	{
+		"id":51,
+		"Chinese":"身體、組織",
+		"English":"body",
+		"Speech":"名",
+		"Sentence":"You may use your body language.",
+		"Ch_Sentnece":"你可以使用身體語言。"
+	},
+	{
+		"id":52,
+		"Chinese":"炸彈、原子彈",
+		"English":"bomb",
+		"Speech":"名",
+		"Sentence":"The police haven’t found the bomb yet.",
+		"Ch_Sentnece":"警方尚未找到炸彈。"
+	},
+	{
+		"id":53,
+		"Chinese":"打擾、煩擾",
+		"English":"bother",
+		"Speech":"動",
+		"Sentence":"May I bother you?",
+		"Ch_Sentnece":"我可以打擾你一下嗎?"
+	},
+	{
+		"id":54,
+		"Chinese":"借入、借用",
+		"English":"borrow",
+		"Speech":"動",
+		"Sentence":"Can I borrow your magazine?",
+		"Ch_Sentnece":"我可以借你的雜誌嗎?"
+	},
+	{
+		"id":55,
+		"Chinese":"瓶子、酒瓶",
+		"English":"bottle",
+		"Speech":"名",
+		"Sentence":"He drank three bottles of wine.",
+		"Ch_Sentnece":"他喝了三瓶酒。"
+	},
+	{
+		"id":56,
+		"Chinese":"底部",
+		"English":"bottom",
+		"Speech":"名",
+		"Sentence":"The bottom of the bowl is broken.",
+		"Ch_Sentnece":"這碗的底部破了。"
+	},
+	{
+		"id":57,
+		"Chinese":"男孩、兒子",
+		"English":"boy",
+		"Speech":"名",
+		"Sentence":"The boy is so cute.",
+		"Ch_Sentnece":"這男孩真可愛。"
+	},
+	{
+		"id":58,
+		"Chinese":"老闆、領袖",
+		"English":"boss",
+		"Speech":"名",
+		"Sentence":"My boss never gets angry.",
+		"Ch_Sentnece":"我老闆從不生氣。"
+	},
+	{
+		"id":59,
+		"Chinese":"出生、天生的",
+		"English":"born",
+		"Speech":"形",
+		"Sentence":"His son was born last week.",
+		"Ch_Sentnece":"他兒子上星期出生。"
+	},
+	{
+		"id":60,
+		"Chinese":"骨頭、骨骼 ",
+		"English":"bone",
+		"Speech":"名",
+		"Sentence":"I broke a bone in me leg.",
+		"Ch_Sentnece":"我的腿斷了一根骨頭。"
+	},
+	{
+		"id":61,
+		"Chinese":"兩個都…",
+		"English":"both",
+		"Speech":"形",
+		"Sentence":"Both of his sons are lawyers.",
+		"Ch_Sentnece":"他的兩個兒子都是律師。"
+	},
+	{
+		"id":62,
+		"Chinese":"覺得無聊的 ",
+		"English":"bored",
+		"Speech":"形",
+		"Sentence":"He is bored with his job.",
+		"Ch_Sentnece":"他對自己的工作感到無聊厭煩。"
+	},
+	{
+		"id":63,
+		"Chinese":"乏味的",
+		"English":"boring",
+		"Speech":"形",
+		"Sentence":"His story is so boring.",
+		"Ch_Sentnece":"他講的故事很無聊。"
+	},
+	{
+		"id":64,
+		"Chinese":"鞠躬、低頭",
+		"English":"bow",
+		"Speech":"名",
+		"Sentence":"The singer gave a deep bow.",
+		"Ch_Sentnece":"這歌手深深一鞠躬。"
+	},
+	{
+		"id":65,
+		"Chinese":"碗、盆地",
+		"English":"bowl",
+		"Speech":"名",
+		"Sentence":"She put those apples in the glass bowl.",
+		"Ch_Sentnece":"他把那些蘋果放在玻璃碗裡。"
+	},
+	{
+		"id":66,
+		"Chinese":"保齡球",
+		"English":"bowling",
+		"Speech":"名",
+		"Sentence":"I played bowling this afternoon.",
+		"Ch_Sentnece":"我今天下午去打了打保齡球。"
+	},
+	{
+		"id":67,
+		"Chinese":"書本、書籍",
+		"English":"book",
+		"Speech":"名",
+		"Sentence":"I didn’t bring the book.",
+		"Ch_Sentnece":"我沒帶這本書來。"
+	},
+	{
+		"id":68,
+		"Chinese":"書架、書櫥",
+		"English":"bookcase",
+		"Speech":"名",
+		"Sentence":"You can find the book on the bookcase.",
+		"Ch_Sentnece":"你可以在書架上找到這本書。"
+	},
+	{
+		"id":69,
+		"Chinese":"書店",
+		"English":"bookstore",
+		"Speech":"名",
+		"Sentence":"When does the bookstore open?",
+		"Ch_Sentnece":"書店何時開門。"
+	},
+	{
+		"id":70,
+		"Chinese":"打破、弄壞",
+		"English":"break",
+		"Speech":"動",
+		"Sentence":"Tom broke the window.",
+		"Ch_Sentnece":"湯姆打破窗戶。"
+	},
+	{
+		"id":71,
+		"Chinese":"勇敢的、勇士",
+		"English":"brave",
+		"Speech":"形",
+		"Sentence":"The soldier is so brave.",
+		"Ch_Sentnece":"這士兵非常勇敢。"
+	},
+	{
+		"id":72,
+		"Chinese":"明亮的",
+		"English":"bright",
+		"Speech":"形",
+		"Sentence":"The wall was painted bright yellow.",
+		"Ch_Sentnece":"這牆壁被漆成鮮黃色。"
+	},
+	{
+		"id":73,
+		"Chinese":"棕色的",
+		"English":"brown ",
+		"Speech":"形",
+		"Sentence":"He always wears a pair of brown shoes.",
+		"Ch_Sentnece":"他總是穿一雙棕色的鞋子。"
+	},
+	{
+		"id":74,
+		"Chinese":"兄弟、兄、弟",
+		"English":"brother",
+		"Speech":"名",
+		"Sentence":"My younger brother was graduated from Harvard.",
+		"Ch_Sentnece":"我弟弟畢業於哈佛大學。"
+	},
+	{
+		"id":75,
+		"Chinese":"麵包、食物",
+		"English":"bread",
+		"Speech":"名",
+		"Sentence":"Do you have bread and butter?",
+		"Ch_Sentnece":"你們有麵包跟奶油嗎?"
+	},
+	{
+		"id":76,
+		"Chinese":"早餐",
+		"English":"breakfast",
+		"Speech":"名",
+		"Sentence":"I like eggs for breakfast.",
+		"Ch_Sentnece":"我早餐喜歡吃雞蛋。"
+	},
+	{
+		"id":77,
+		"Chinese":"帶來、引起",
+		"English":"bring",
+		"Speech":"動",
+		"Sentence":"The waiter brought me a cup of coffee.",
+		"Ch_Sentnece":"服務生為我送來一杯咖啡。"
+	},
+	{
+		"id":78,
+		"Chinese":"橋梁",
+		"English":"bridge",
+		"Speech":"名",
+		"Sentence":"That bridge was built ten years ago.",
+		"Ch_Sentnece":"那座橋建於十年前。"
+	},
+	{
+		"id":79,
+		"Chinese":"刷、拂去",
+		"English":"brush",
+		"Speech":"動",
+		"Sentence":"I brush my teeth clean every night.",
+		"Ch_Sentnece":"我每天晚上都徹底潔牙。"
+	},
+	{
+		"id":80,
+		"Chinese":"早午餐一起吃",
+		"English":"brunch",
+		"Speech":"名",
+		"Sentence":"We had brunch with Mary.",
+		"Ch_Sentnece":"我們和瑪莉一起吃「早午餐」。"
+	},
+	{
+		"id":81,
+		"Chinese":"建築、建造",
+		"English":"build",
+		"Speech":"動",
+		"Sentence":"The house is built of stone.",
+		"Ch_Sentnece":"這房子是用石頭建造的。"
+	},
+	{
+		"id":82,
+		"Chinese":"忙碌的",
+		"English":"busy",
+		"Speech":"形",
+		"Sentence":"Tom is busy with his work.",
+		"Ch_Sentnece":"湯姆忙於自己的工作。"
+	},
+	{
+		"id":83,
+		"Chinese":"生意、交易",
+		"English":"business",
+		"Speech":"名",
+		"Sentence":"He runs a small business.",
+		"Ch_Sentnece":"他做小生意。"
+	},
+	{
+		"id":84,
+		"Chinese":"商人、經營者",
+		"English":"businessman",
+		"Speech":"名",
+		"Sentence":"Jack is a successful businessman.",
+		"Ch_Sentnece":"傑克是一位成功的生意人。"
+	},
+	{
+		"id":85,
+		"Chinese":"蟲子、電腦程式的錯誤",
+		"English":"bug",
+		"Speech":"名",
+		"Sentence":"We need to fix the bug.",
+		"Ch_Sentnece":"我們需要修改成電腦程式的錯誤。"
+	},
+	{
+		"id":86,
+		"Chinese":"巴士、公車",
+		"English":"bus",
+		"Speech":"名",
+		"Sentence":"He missed the school bus.",
+		"Ch_Sentnece":"他錯過了校車。"
+	},
+	{
+		"id":87,
+		"Chinese":"自助餐、快餐",
+		"English":"buffet",
+		"Speech":"名",
+		"Sentence":"We had a buffet dinner.",
+		"Ch_Sentnece":"晚上我們吃了自助餐。"
+	},
+	{
+		"id":88,
+		"Chinese":"水桶",
+		"English":"bucket",
+		"Speech":"名",
+		"Sentence":"He is carrying a bucket of water.",
+		"Ch_Sentnece":"他正提著一桶水。"
+	},
+	{
+		"id":89,
+		"Chinese":"但是、可是",
+		"English":"but",
+		"Speech":"連",
+		"Sentence":"He is rich but he is not happy.",
+		"Ch_Sentnece":"她很有錢但是不快樂。"
+	},
+	{
+		"id":90,
+		"Chinese":"鈕扣、按鈕",
+		"English":"button",
+		"Speech":"名",
+		"Sentence":"Don’t push the button.",
+		"Ch_Sentnece":"別按那個按鈕。"
+	},
+	{
+		"id":91,
+		"Chinese":"奶油",
+		"English":"butter",
+		"Speech":"名",
+		"Sentence":"I want more butter on my sandwich.",
+		"Ch_Sentnece":"我的三明治要多一點奶油。"
+	},
+	{
+		"id":92,
+		"Chinese":"蝴蝶",
+		"English":"butterfly",
+		"Speech":"名",
+		"Sentence":"I didn’t see any butterfly in the garden.",
+		"Ch_Sentnece":"我在花園裡看不到任何的蝴蝶。"
+	},
+	{
+		"id":93,
+		"Chinese":"購買",
+		"English":"buy",
+		"Speech":"動",
+		"Sentence":"My mother bought me a doll.",
+		"Ch_Sentnece":"媽媽給我買了一隻洋娃娃。"
+	},
+	{
+		"id":94,
+		"Chinese":"買主、採購員",
+		"English":"buyer",
+		"Speech":"名",
+		"Sentence":"Mark is an experience buyer.",
+		"Ch_Sentnece":"馬克是個經驗豐富的採購員。"
+	},
+	{
+		"id":95,
+		"Chinese":"燃燒、著火",
+		"English":"burn",
+		"Speech":"動",
+		"Sentence":"The house is burning.",
+		"Ch_Sentnece":"房子燒起來了。"
+	},
+	{
+		"id":96,
+		"Chinese":"爆炸、闖",
+		"English":"burst",
+		"Speech":"動",
+		"Sentence":"The balloon burst.",
+		"Ch_Sentnece":"氣球爆炸了。"
+	},
+	{
+		"id":97,
+		"Chinese":"漢堡",
+		"English":"burger",
+		"Speech":"名",
+		"Sentence":"I like cheese burgers.",
+		"Ch_Sentnece":"我喜歡吃起司漢堡。"
+	}
+]
